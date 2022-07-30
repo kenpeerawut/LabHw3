@@ -1,0 +1,42 @@
+.Center-Text h1{
+    text-align: center;
+    margin-top: 20px;
+   
+
+}
+
+div {
+    display:grid;
+    place-items: center;
+    height: 83px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+   
+}
+
+
+.Center-Text2 h1{
+    text-align: center;
+    margin-top: 3px;
+}
+
+p {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Center-Text3 h1{
+    text-align: center;
+    margin-top: 3px;
+   
+   
+}
+
+.Center-Text4 h1{
+    text-align: center;
+    margin-top: 3px;
+    
+   
+}
+
+
